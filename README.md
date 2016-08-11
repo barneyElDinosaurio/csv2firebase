@@ -11,7 +11,7 @@ if u 've pip installed u should use this command: `sudo pip install requests==1.
 
 just download this repo and execute with the python script:
 
-inside your favorite folder:
+inside your favorite folder
 
 `cd myFavoriteFolder`
 download the folder
